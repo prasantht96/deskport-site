@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Support and FAQ | DeskPort</title>
+<meta name="description" content="Help for DeskPort: setup steps, troubleshooting for Shizuku, USB-C video output and notification access, plus frequently asked questions.">
+<meta name="theme-color" content="#0F1420">
+<link rel="canonical" href="https://prasantht96.github.io/deskport-site/support.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="DeskPort">
+<meta property="og:title" content="Support and FAQ | DeskPort">
+<meta property="og:description" content="Help for DeskPort: setup steps, troubleshooting for Shizuku, USB-C video output and notification access, plus frequently asked questions.">
+<meta property="og:url" content="https://prasantht96.github.io/deskport-site/support.html">
+<meta property="og:image" content="https://prasantht96.github.io/deskport-site/assets/og-1200x675.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Support and FAQ | DeskPort">
+<meta name="twitter:description" content="Help for DeskPort: setup steps, troubleshooting for Shizuku, USB-C video output and notification access, plus frequently asked questions.">
+<meta name="twitter:image" content="https://prasantht96.github.io/deskport-site/assets/og-1200x675.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/icon-192.png">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+<a class="brand" href="index.html"><img src="assets/icon-192.png" alt="" width="30" height="30"><span>DeskPort</span></a>
+<nav><a href="index.html">Home</a><a href="support.html" aria-current="page">Support</a><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="refunds.html">Refunds</a><a href="delete-data.html">Delete data</a></nav>
+</div></header>
+<main><div class="wrap">
+<div class="doc">
+<h1>Support</h1>
+<p>Questions, bug reports or ideas? Email <a href="mailto:tprasanth696@gmail.com">tprasanth696@gmail.com</a>. Please include your phone model, Android version and a short description of what happened. Replies usually come within a few days.</p>
+
+<h2>Setup in 4 steps</h2>
+<ol>
+<li>Install <b>Shizuku</b> from Google Play.</li>
+<li>Turn on <b>Developer options</b> and <b>Wireless debugging</b> on your phone (this needs Wi-Fi).</li>
+<li>Open Shizuku and start it, then allow DeskPort when asked.</li>
+<li>Connect your monitor or TV with USB-C and open DeskPort.</li>
+</ol>
+<p>DeskPort has a built-in setup helper that walks you through each step.</p>
+
+<h2>Troubleshooting</h2>
+<h3>Shizuku stopped working after a restart</h3>
+<p>This is expected. After each phone restart, open Shizuku and tap <b>Start</b> again, then open DeskPort.</p>
+<h3>Navigation buttons stop responding</h3>
+<p>Restart the phone.</p>
+<h3>Nothing shows on the monitor</h3>
+<p>Check that the cable or adapter supports video, and that your monitor input is set to the right port. Run the compatibility check in DeskPort. Some phones do not have USB-C video output at all.</p>
+<h3>My phone has no USB-C video output</h3>
+<p>DeskPort needs a phone that sends video over USB-C (DisplayPort over USB-C). If your phone cannot output video, DeskPort cannot show a desktop on a wired monitor. Check your phone's spec sheet for "DisplayPort", "video output" or "USB-C display".</p>
+<h3>Video does not play in some apps</h3>
+<p>Some apps, such as certain streaming apps, use DRM protection and may not play video inside windows. This is a limit set by those apps.</p>
+<h3>Notification access is greyed out (sideloaded builds)</h3>
+<p>If you installed DeskPort from outside Google Play, Android may block the notification access switch. Open <b>Settings, Apps, DeskPort</b>, tap the <b>three dots</b> menu in the top right, and choose <b>Allow restricted settings</b>. Then turn notification access on again. Notification access is optional.</p>
+<h3>Phone gets warm</h3>
+<p>Driving an external display uses more power. Charge while connected and avoid direct sun or cases that trap heat.</p>
+
+<h2 id="faq">Frequently asked questions</h2>
+<details><summary>What is DeskPort?</summary><p>DeskPort turns your phone into a desktop PC on an external monitor or TV connected by USB-C. The monitor shows its own desktop with a taskbar, start menu and floating windows, while your phone stays usable as a touchpad and keyboard.</p></details>
+<details><summary>What is Shizuku, and is it safe?</summary><p>Shizuku is a free, open-source app that lets other apps use limited system features after you approve them. DeskPort uses it to start apps on the external display. It only grants access to apps you allow, and you can revoke access any time in Shizuku.</p></details>
+<details><summary>Why do I need to turn on Developer options?</summary><p>Shizuku starts through Wireless debugging, which lives inside Developer options. This is a one-time setup. The built-in setup helper in DeskPort walks you through each step.</p></details>
+<details><summary>Does DeskPort need root?</summary><p>No. No root, no unlocked bootloader and no custom ROM.</p></details>
+<details><summary>Which phones work?</summary><p>Phones with USB-C video output (DisplayPort over USB-C) work, including phones whose system only mirrors the screen, such as many vivo, iQOO, Xiaomi, Redmi, POCO, OPPO, realme, OnePlus, Nothing, Tecno and Infinix models. DeskPort checks compatibility first.</p></details>
+<details><summary>How do I check whether my phone has USB-C video output?</summary><p>Open DeskPort and run the compatibility check. You can also check your phone's spec sheet for "DisplayPort", "video output" or "USB-C display". If you are unsure, try a USB-C to HDMI adapter or a USB-C to USB-C cable with a monitor.</p></details>
+<details><summary>What cable or adapter do I need?</summary><p>Either a USB-C to USB-C cable (if your monitor has a USB-C video port) or a USB-C to HDMI or DisplayPort adapter or cable that supports video.</p></details>
+<details><summary>Do I need to set up Shizuku again after restarting my phone?</summary><p>Yes. After each phone restart, open Shizuku and tap Start. DeskPort will then work as before.</p></details>
+<details><summary>Will the monitor just mirror my phone?</summary><p>No. The monitor shows its own desktop at the monitor's native resolution, and your phone keeps its own screen for normal use.</p></details>
+<details><summary>Can I use a mouse and keyboard?</summary><p>Yes. USB and Bluetooth mice and keyboards are supported. Without them, your phone works as a touchpad and keyboard.</p></details>
+<details><summary>Does it get hot or drain the battery?</summary><p>Driving an external display uses more power and can warm the phone. Charging while connected is recommended, and keeping the phone out of direct sun and cases that trap heat helps.</p></details>
+<details><summary>Why does video not play in some apps?</summary><p>Some apps, such as certain streaming apps, use DRM protection and may not play video inside windows. This is a limit set by those apps, not by DeskPort.</p></details>
+<details><summary>My phone&#x27;s navigation buttons stop responding. What do I do?</summary><p>Restart the phone.</p></details>
+<details><summary>What is free and what is Pro?</summary><p>Free includes the desktop, touchpad, taskbar, start menu and 2 windows. Pro is a one-time purchase (no subscription) and adds unlimited windows, snap layouts and per-app window memory, all themes and customization, multiple virtual desktops, the shortcut editor, wireless displays where supported and the notification centre on the monitor.</p></details>
+<details><summary>How do I get a refund, and what data do you collect?</summary><p>Refunds and purchase problems start with Google Play: open your Google Play purchase history, pick DeskPort and request a refund. See our <a href="refunds.html">refund policy</a> for details. DeskPort has no account and no ads, and collects no personal data. Contact: <a href="mailto:tprasanth696@gmail.com">tprasanth696@gmail.com</a>.</p></details>
+
+<h2>Purchases, privacy and your data</h2>
+<p><a href="refunds.html">Refund policy</a> · <a href="privacy.html">Privacy policy</a> · <a href="terms.html">Terms of use</a> · <a href="delete-data.html">Data deletion</a></p>
+</div>
+</div></main>
+<footer><div class="wrap">
+DeskPort · by Prasanth T, individual developer · Contact: <a href="mailto:tprasanth696@gmail.com">tprasanth696@gmail.com</a><br>
+<a href="index.html">Home</a> · <a href="support.html">Support</a> · <a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a> · <a href="refunds.html">Refunds</a> · <a href="delete-data.html">Delete data</a> · No cookies, trackers or analytics on this site.<br>
+Google Play and the Google Play logo are trademarks of Google LLC. Samsung DeX is a trademark of Samsung Electronics. DeskPort is not affiliated with or endorsed by Samsung.
+</div></footer>
+</body>
+</html>
