@@ -1,0 +1,149 @@
+{
+ "version": 1,
+ "items": [
+  {
+   "id": "tarantula",
+   "title": "Tarantula Nebula (NIRCam Image)",
+   "credit": "NASA, ESA, CSA, and STScI",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "sourceUrl": "https://esawebb.org/images/weic2212a/",
+   "thumb": "thumbs/tarantula.webp",
+   "image": "full/tarantula.webp",
+   "width": 1920,
+   "height": 1080,
+   "bytes": 323688,
+   "sha256": "15a1d2995bf6ea8baf770440f3d7d4b858066bea65abe0313e952e14bd2f96df",
+   "pro": true,
+   "tags": [
+    "space"
+   ]
+  },
+  {
+   "id": "whirlpool",
+   "title": "Out of this whirl: The Whirlpool Galaxy (M51) and companion galaxy",
+   "credit": "NASA, ESA, S. Beckwith (STScI), and The Hubble Heritage Team (STScI/AURA)",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "sourceUrl": "https://esahubble.org/images/heic0506a/",
+   "thumb": "thumbs/whirlpool.webp",
+   "image": "full/whirlpool.webp",
+   "width": 1920,
+   "height": 1080,
+   "bytes": 311038,
+   "sha256": "72709dc859cff9817b9c6c436d22ac3948e404e40cb287a03c4466b8a7e36aeb",
+   "pro": false,
+   "tags": [
+    "space"
+   ]
+  },
+  {
+   "id": "starbirth",
+   "title": "Tapestry of Blazing Starbirth",
+   "credit": "NASA, ESA, and STScI",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "sourceUrl": "https://esahubble.org/images/heic2007a/",
+   "thumb": "thumbs/starbirth.webp",
+   "image": "full/starbirth.webp",
+   "width": 1920,
+   "height": 1080,
+   "bytes": 307390,
+   "sha256": "17b0a9c42680b405a3875ab3a1634780877697d58bbb901aefb115be75aa764f",
+   "pro": true,
+   "tags": [
+    "space"
+   ]
+  },
+  {
+   "id": "gobi_dunes",
+   "title": "Khongoryn Els sand dunes, Gobi Gurvansaikhan National Park, Mongolia",
+   "credit": "Bernard Gagnon",
+   "licence": "CC0 1.0",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khongoryn_Els_02.jpg",
+   "thumb": "thumbs/gobi_dunes.webp",
+   "image": "full/gobi_dunes.webp",
+   "width": 1920,
+   "height": 1080,
+   "bytes": 407980,
+   "sha256": "436e38a961fb25a483a8268f5bd2bbc423c32262af4e78e5d3678f322360e440",
+   "pro": true,
+   "tags": [
+    "nature"
+   ]
+  },
+  {
+   "id": "mongolia_lake",
+   "title": "Terkhiin Tsagaan Lake, Arkhangai province, Mongolia",
+   "credit": "Bernard Gagnon",
+   "licence": "CC0 1.0",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terkhiin_Tsagaan_Lake_01.jpg",
+   "thumb": "thumbs/mongolia_lake.webp",
+   "image": "full/mongolia_lake.webp",
+   "width": 1920,
+   "height": 1080,
+   "bytes": 280868,
+   "sha256": "3afa0c9efd955570fbb771434c21dcb47d20b2d7ced13f3b76ddb5f76a6d0e2f",
+   "pro": true,
+   "tags": [
+    "nature"
+   ]
+  },
+  {
+   "id": "crete_coast",
+   "title": "Northern coast of Crete, from Bali, Greece",
+   "credit": "Jebulon",
+   "licence": "CC0 1.0",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northern_coast_Crete.jpg",
+   "thumb": "thumbs/crete_coast.webp",
+   "image": "full/crete_coast.webp",
+   "width": 1920,
+   "height": 1080,
+   "bytes": 247538,
+   "sha256": "7f31fe739703ad29145d9440900810e3790cd632d4787f811665314fbbc47123",
+   "pro": false,
+   "tags": [
+    "nature"
+   ]
+  },
+  {
+   "id": "spruce_forest",
+   "title": "Spruce forest at Holma, Lysekil, Sweden",
+   "credit": "W.carter",
+   "licence": "CC0 1.0",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spruce_forest_at_Holma.jpg",
+   "thumb": "thumbs/spruce_forest.webp",
+   "image": "full/spruce_forest.webp",
+   "width": 1920,
+   "height": 1080,
+   "bytes": 639084,
+   "sha256": "1e35361faa8523da9926d7141a9bf971665a9c715d44a871d83c559f2344d756",
+   "pro": false,
+   "tags": [
+    "nature"
+   ]
+  },
+  {
+   "id": "lapland_aurora",
+   "title": "Aurora near the E10 at Katterjakk, Sweden",
+   "credit": "Leonhard Lenz",
+   "licence": "CC0 1.0",
+   "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aurora_near_E10_at_Katterj%C3%A5kk_2022-09-03_03.jpg",
+   "thumb": "thumbs/lapland_aurora.webp",
+   "image": "full/lapland_aurora.webp",
+   "width": 1920,
+   "height": 1080,
+   "bytes": 58030,
+   "sha256": "6c7c53eff2ee415e571a386c11b8e2f3cb8847192049bd228fc9ac8c94844370",
+   "pro": true,
+   "tags": [
+    "nature"
+   ]
+  }
+ ]
+}
